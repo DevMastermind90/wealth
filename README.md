@@ -1,15 +1,15 @@
 
 # Asset Management System
 
-This monorepo contains a full-stack application for managing financial assets, featuring:
+This monorepo contains a full-stack application for displaying assets, featuring:
 - A **Node.js/Express backend** with MongoDB integration
-- A **React/Vue/Angular frontend** (choose one) for visualizing asset data
+- A **React.js frontend** for visualizing asset data
 
 ## Project Structure
 - wealth/
-   - wealth_BE/ # Node.js API server (see backend/README.md)
-   - wealth_FE/ # Frontend application (see frontend/README.md)
-   - README.md # This file
+   - wealth_BE/ (see backend/README.md)
+   - wealth_FE/ (see frontend/README.md)
+   - README.md 
  
 ## Getting Started
 
